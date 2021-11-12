@@ -24,11 +24,7 @@ module.exports = {
           {
             title: "Github",
             url: "https://github.com/TheHergi/ForgottenLibrary",
-          },
-          {
-            title: "Twitter",
-            url: "https://twitter.com/theowenyoung",
-          },
+          }
         ],
         editUrl:
           "https://github.com/TheHergi/ForgottenLibrary",
