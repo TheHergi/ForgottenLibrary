@@ -1,14 +1,11 @@
 const path = require("path");
-const pathPrefix = "/";
+const pathPrefix = "/ForgottenLibrary";
 // Change me
 const siteMetadata = {
-  title: "Foam Template for Gatsby Theme Primer Wiki",
+  title: "Forgotten Library",
   shortName: "Wiki",
-  description:
-    "Another Foam template that use gatsby-theme-primer-wiki, Welcome to your new Foam Knowledge Base!",
-  twitterName: "theowenyoung",
-  imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://demo-foam.owenyoung.com",
+  description: "A Wiki related to everything Warhammer",
+  siteUrl: "https://thehergi.github.io",
 };
 module.exports = {
   siteMetadata,
@@ -22,7 +19,7 @@ module.exports = {
       // Change me
       options: {
         icon: "./static/logo.png",
-        sidebarComponents: ["latest", "tag"],
+        sidebarComponents: ["summary", "latest", "tag"],
         nav: [
           {
             title: "Github",
@@ -34,7 +31,7 @@ module.exports = {
           },
         ],
         editUrl:
-          "https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki/tree/main/",
+          "https://github.com/TheHergi/ForgottenLibrary",
       },
     },
     {
