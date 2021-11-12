@@ -23,7 +23,7 @@ module.exports = {
         nav: [
           {
             title: "Github",
-            url: "https://github.com/theowenyoung/foam-template-gatsby-theme-primer-wiki/",
+            url: "https://github.com/TheHergi/ForgottenLibrary",
           },
           {
             title: "Twitter",
