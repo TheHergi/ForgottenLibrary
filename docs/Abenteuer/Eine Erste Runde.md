@@ -2,12 +2,11 @@
 title:
 tags:
   - Übersreik
-  - Abenteuer
-  - Einsteiger
+  - Abenteuer/Eine Erste Runde
 ---
 
 # Eine Erste Runde
-Das Abenteuer zur Einsteiger Box vom Warhammer Fantasy Rollenspiel in der 4. Edition. #Übersreik
+Das Abenteuer zur Einsteiger Box vom Warhammer Fantasy Rollenspiel in der 4. Edition.
 
 # Teil 1: Auf zum Markt
 Die SCs befinden sich auf dem [[Marktplatz]] von Übersreik.
