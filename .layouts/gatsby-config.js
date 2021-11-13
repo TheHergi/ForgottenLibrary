@@ -19,7 +19,6 @@ module.exports = {
       // Change me
       options: {
         icon: "./static/logo.png",
-        sidebarComponents: ["summary", "latest", "tag"],
         nav: [
           {
             title: "Github",
@@ -27,10 +26,10 @@ module.exports = {
           }
         ],
         editUrl: "https://github.com/TheHergi/ForgottenLibrary",
-
-        // sidebarDefault: "category",
-        // summaryDepth: 2, // specify summary depth if exist
-        // summary1DepthIndent: true, // specify summary depth 0 indent, default false, not indent, when depth>1, it will indent
+        sidebarComponents: ["summary", "latest", "tag"],
+        sidebarDefault: "category",
+        summaryDepth: 2, // specify summary depth if exist
+        summary1DepthIndent: true, // specify summary depth 0 indent, default false, not indent, when depth>1, it will indent
       },
     },
     {
