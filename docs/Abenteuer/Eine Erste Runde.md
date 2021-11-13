@@ -3,7 +3,7 @@ title:
 tags:
   - Übersreik
   - Abenteuer
-  - Eine-Erste-Runde
+  - EineErsteRunde
 ---
 
 # Eine Erste Runde
