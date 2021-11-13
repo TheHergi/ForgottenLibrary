@@ -2,11 +2,17 @@
 title:
 tags:
   - Übersreik
-  - Abenteuer
-  - Eine Erste Runde
+  - Abenteuer/Eine-Erste-Runde
 ---
 
 # Heske Glazner
+
+|   B   |  KG   |  BF   |  ST   |  WI   |   I   |  GW   |  GS   |  IN   |  WK   |  CH   |  LP   |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|   4   |  29   |  34   |  33   |  42   |  34   |  35   |  49   |  31   |  38   |  48   |  14   |
+
+**Fähigkeiten:** Feilschen 67, Beruf (Glasbläser) 92
+**Eigenschaften:** Waffe (Faust) +3
 
 # Abenteuer
 ## Eine Erste Runde

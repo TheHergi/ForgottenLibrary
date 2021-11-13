@@ -2,6 +2,6 @@
 title:
 tags:
   - Übersreik
-  - Eine Erste Runde
+  - Abenteuer/Eine-Erste-Runde
 ---
 # Übersreik Marktplatz

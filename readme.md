@@ -1,6 +1,6 @@
 ---
 tags: 
-  - Home
+  - 
 ---
 
 # Forgotten Library
