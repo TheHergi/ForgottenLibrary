@@ -28,7 +28,7 @@ module.exports = {
         editUrl: "https://github.com/TheHergi/ForgottenLibrary",
         sidebarComponents: ["summary", "tag"],
         // sidebarDefault: "summary",
-        summaryDepth: 2, // specify summary depth if exist
+        summaryDepth: 1, // specify summary depth if exist
         summary1DepthIndent: true, // specify summary depth 0 indent, default false, not indent, when depth>1, it will indent
       },
     },
