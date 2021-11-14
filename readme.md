@@ -1,6 +1,6 @@
 
 # Forgotten Library
-A Wiki related to everything Warhammer.
+A [Wiki](https://thehergi.github.io/ForgottenLibrary/) related to everything Warhammer Fantasy Roleplay.
 
 
 

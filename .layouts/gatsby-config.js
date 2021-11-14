@@ -26,8 +26,8 @@ module.exports = {
           }
         ],
         editUrl: "https://github.com/TheHergi/ForgottenLibrary",
-        sidebarComponents: ["summary", "latest", "tag"],
-        sidebarDefault: "category",
+        sidebarComponents: ["summary", "tag"],
+        // sidebarDefault: "summary",
         summaryDepth: 2, // specify summary depth if exist
         summary1DepthIndent: true, // specify summary depth 0 indent, default false, not indent, when depth>1, it will indent
       },
@@ -40,7 +40,6 @@ module.exports = {
         ignore: [`**/\.*/**/*`],
       },
     },
-
     {
       resolve: "gatsby-plugin-manifest",
       options: {
@@ -62,13 +61,6 @@ module.exports = {
         sitemap: `${siteMetadata.siteUrl}/sitemap/sitemap-index.xml`,
         policy: [{ userAgent: "*", allow: "/" }],
       },
-    },
-    {
-      resolve: `gatsby-plugin-google-gtag`,
-      options: {
-        // You can add multiple tracking ids and a pageview event will be fired for all of them.
-        trackingIds: [],
-      },
-    },
+    }
   ],
 };
