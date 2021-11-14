@@ -35,7 +35,7 @@ Der Marktplatz in [Übersreik](/docs/Orte/Übersreik-Stadt/#test)
 
 Der Marktplatz in [Übersreik](docs/Orte/Übersreik-Stadt/#test)
 
-Der Marktplatz in [Übersreik](#test)
+Der Marktplatz in [Übersreik](Übersreik-Stadt/#test)
 
 Und dann noch nach extern [Heske Glazner](/docs/Charaktere/Heske%20Glazner) plus wikilink [[Heske Glazner]]
 
