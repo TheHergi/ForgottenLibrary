@@ -13,4 +13,8 @@ tags:
 **Fähigkeiten:** 
 **Eigenschaften:** 
 
+# Aussehen und Erscheinung
+
+# Geschichte
+
 # Abenteuer

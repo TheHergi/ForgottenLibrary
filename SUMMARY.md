@@ -4,7 +4,9 @@
   * [Eine Erste Runde](docs/Abenteuer/Eine%20Erste%20Runde.md)
 
 * Charaktere
+  * [Brynich von Aschaffenberg](docs/Charaktere/Brynich%20von%20Aschaffenberg.md)
   * [Heske Glazner](docs/Charaktere/Heske%20Glazner.md)
+  * [Kassandra Glazner](docs/Charaktere/Kassandra%20Glazner.md)
   * [Magnus der Fromme](docs/Charaktere/Magnus%20der%20Fromme.md)
   * [Rosanna Winandus](docs/Charaktere/Rosanna%20Winandus.md)
 
