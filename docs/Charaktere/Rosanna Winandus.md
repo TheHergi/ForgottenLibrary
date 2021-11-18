@@ -6,7 +6,7 @@ tags:
   - Eine-Erste-Runde
 ---
 
-# Rosanna Winandus
+# Eigenschaften
 
 |   B   |  KG   |  BF   |  ST   |  WI   |   I   |  GW   |  GS   |  IN   |  WK   |  CH   |  LP   |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |

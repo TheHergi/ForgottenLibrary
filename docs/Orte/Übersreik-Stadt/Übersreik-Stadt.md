@@ -6,8 +6,6 @@ tags:
   - Eine-Erste-Runde
 ---
 
-# Übersreik (Stadt)
-
 Die Stadt gliedert sich in folgende Bezirke auf:
 - [[Handwerkerviertel]]
 - [[Marktbezirk]]

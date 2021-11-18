@@ -8,8 +8,6 @@ tags:
   - Marktplatz
 ---
 
-# Marktbezirk
-
 ## Marktplatz
 Auf dem Marktplatz befindet sich eine große Statue von [[Magnus der Fromme]].
 

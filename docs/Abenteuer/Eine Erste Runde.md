@@ -6,12 +6,24 @@ tags:
   - Eine-Erste-Runde
 ---
 
-# Eine Erste Runde
 Das Abenteuer zur Einsteiger Box vom Warhammer Fantasy Rollenspiel in der 4. Edition.
 
 # Teil 1: Auf zum Markt
+
 Die SCs befinden sich auf dem überfüllten Marktplatz ([[Marktbezirk]]) von [[Übersreik-Stadt]]. 
 SCs die den Marktplatz erkunden können [[Heske Glazner]]s Drachenglas Stand finden.
+
+## Heskes Drachenglas
+
+Ein farbenfroher Stand der Glasskulpturen anbietet. 
+Trinkpokale mit zweischweifigen Kometen als Fuß, Skulpturen von Monstern, Feen, Drachen und Rittern aus meisterlicher Qualität.
+Heske spricht die SCs einladend an, und versucht ihre Waren an sie zu verkaufen.
+- Figuren: 4 Schillinge (Feilschen 3S, 6G)
+- Pokale: 8 Schillinge (Feilschen 7S)
+
+## Der Marktplatz-Aufruhr
+
+Nachdem die SCs genügend Zeit hatten am Marktplatz, bricht ein Kampf aus.
 
 # Teil 2: Recht und Ordnung
 

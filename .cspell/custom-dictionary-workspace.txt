@@ -1,7 +1,11 @@
 # Custom Dictionary Words
+Aschaffenberg
+Baronie
+Brynich
 Cordelios
 Glazner
 Heske
+Heskes
 Medicus
 Satriolis
 Shallya

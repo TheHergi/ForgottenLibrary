@@ -6,8 +6,6 @@ tags:
   - Geschichte
 ---
 
-# Magnus der Fromme
-
 # Übersreik
 Spielte eine zentrale Rolle beim Wiederaufbau von [[Übersreik-Stadt]] nach dem Großen Krieg gegen das Chaos.
 
