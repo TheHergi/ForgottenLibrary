@@ -4,7 +4,7 @@ const pathPrefix = "/ForgottenLibrary";
 const siteMetadata = {
   title: "Forgotten Library",
   shortName: "Wiki",
-  description: "A Wiki related to everything Warhammer",
+  description: "A Wiki related to everything Warhammer Fantasy Roleplay",
   siteUrl: "https://thehergi.github.io",
 };
 module.exports = {
