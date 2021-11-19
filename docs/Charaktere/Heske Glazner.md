@@ -23,7 +23,7 @@ Frau in ihren 40ern mit silber durchsetzen blonden Haaren.
 Eines ihrer Augen ist hellblau, das andere aus Glas (Bernstein mit smaragdgrünen Wirbel).
 
 # Geschichte
-Arbeitete in ihren jungen Jahren auf den Feldern von [[Tal der Dame]]. Ein fehlschuss von Graf [[Brynich von Aschaffenberg]] änderte ihr Leben. Er hatte Mitleid und bezahlte ihre Fürsorge und ein neues Glasauge. Das Glasauge wurde von [[Kassandra Glazner]] gefertigt, die Heske dann auch als Lehrling aufnahm.
+Arbeitete in ihren jungen Jahren auf den Feldern von [[Tal der Dame]]. Ein fehlschuss von [[Brynich von Aschaffenberg]] änderte ihr Leben. Er hatte Mitleid und bezahlte ihre Fürsorge und ein neues Glasauge. Das Glasauge wurde von [[Kassandra Glazner]] gefertigt, die Heske dann auch als Lehrling aufnahm.
 
 Ihre Handwerkskunst ist so gut, dass sogar Zwerge ihr Glas für Laternen benutzen, und wird weit in das Graue Gebirge hinein verkauft.
 
